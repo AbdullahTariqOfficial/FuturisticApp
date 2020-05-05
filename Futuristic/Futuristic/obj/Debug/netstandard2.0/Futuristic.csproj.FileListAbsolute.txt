@@ -1,0 +1,17 @@
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\bin\Debug\netstandard2.0\Futuristic.deps.json
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\bin\Debug\netstandard2.0\Futuristic.dll
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\bin\Debug\netstandard2.0\ref\Futuristic.dll
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\bin\Debug\netstandard2.0\Futuristic.pdb
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\Futuristic.csprojAssemblyReference.cache
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\View\SearchResultView.xaml.g.cs
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\Futuristic.csproj.CoreCompileInputs.cache
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\Futuristic.AssemblyInfoInputs.cache
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\Futuristic.AssemblyInfo.cs
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\Futuristic.dll
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\ref\Futuristic.dll
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\Futuristic.pdb
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\View\SearchResultDetailView.xaml.g.cs
+C:\Users\ABDULLAH\Source\Repos\Futuristic\Futuristic\Futuristic\obj\Debug\netstandard2.0\SearchResultDetailPage.xaml.g.cs
